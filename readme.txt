@@ -1,3 +1,4 @@
+/********2020/12/15学习完廖雪峰老师git教程，最后选用gitee存储代码，github打开还是太慢了********/
 Git is a version control system.
 Git is free software.
 Git is a distributed version control system.
